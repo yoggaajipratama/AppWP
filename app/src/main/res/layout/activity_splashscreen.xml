@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Splashscreen"
+    android:background="#24b5a9">
+
+    <ImageView
+        android:id="@+id/logo"
+        android:layout_width="500px"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/spl"/>
+
+    <TextView
+        android:layout_below="@+id/logo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="#d47217"
+        android:textFontWeight="12pt"
+        android:textAlignment="center"
+        android:textDirection="rtl"
+        android:textStyle="bold"
+        android:text="Water the Plants Project"/>
+</RelativeLayout>

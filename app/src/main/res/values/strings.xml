@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Water Plants</string>
+    <string name="name">
+        <font fgcolor="#ffff0000">W</font>
+        <font fgcolor="#a10d61">A</font>
+        <font fgcolor="#4b0ea1">T</font>
+        <font fgcolor="#0d9ca3">E</font>
+        <font fgcolor="#10c479">R</font>
+        <font fgcolor="#10c1c4">PLANTS</font>
+    </string>
+
+    <string name="login">
+        <font fgcolor="#ffff0000">L</font>
+        <font fgcolor="#a10d61">O</font>
+        <font fgcolor="#4b0ea1">G</font>
+        <font fgcolor="#0d9ca3">I</font>
+        <font fgcolor="#10c479">N</font>
+    </string>
+
+    <string name="add">
+        <font fgcolor="#ffff0000">A</font>
+        <font fgcolor="#a10d61">D</font>
+        <font fgcolor="#4b0ea1">D</font>
+        <font fgcolor="#0d9ca3">U</font>
+        <font fgcolor="#10c479">S</font>
+        <font fgcolor="#10c1c4">E</font>
+        <font fgcolor="#b5b50e">R</font>
+    </string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

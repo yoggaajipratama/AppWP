@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home"/>
+    <item
+        android:id="@+id/nav_remote"
+        android:icon="@drawable/ic_settings_remote_black_24dp"
+        android:title="Remote"/>
+    <item
+        android:id="@+id/nav_info"
+        android:icon="@drawable/ic_perm_device_information_black_24dp"
+        android:title="Informasi"/>
+    <item
+        android:id="@+id/nav_logout"
+        android:icon="@drawable/ic_exit_to_app_black_24dp"
+        android:title="Logout"/>
+
+</menu>
